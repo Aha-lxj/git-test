@@ -8,7 +8,9 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("I am aha!");
         System.out.println("I am lxj!");
-        System.out.println("I am ch!");
+        System.out.println("I am nk!");
+        System.out.println("I am lzx!");
+
 
 
     }
