@@ -11,7 +11,7 @@ public class GitTest {
         System.out.println("I am nk!");
         System.out.println("I am dsf!");
         System.out.println("push test!");
-
+        System.out.println("pull test!");
 
 
 
